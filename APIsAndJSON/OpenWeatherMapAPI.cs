@@ -1,12 +1,28 @@
-﻿using System;
+﻿using Newtonsoft.Json.Linq;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Net.Http;
 
 namespace APIsAndJSON
 {
-    internal class OpenWeatherMapAPI
+    public class OpenWeatherMapAPI
     {
+        public static void OpenWeatherTemp() 
+        {
+            var client = new HttpClient();
+            var key = "8c4b5b8347be9540090e07b9475857fd";
+            var city = "Providence";
+
+            var weatherURL = "https://api.openweathermap.org/data/2.5/forcast?q={city}&units=imperial&appid={API key}";
+            var weatherResponse = client.GetStringAsync(weatherURL).Result;
+
+            JObject response = JObject.Parse(weatherResponse);
+            var temp = response["list"][0]["main"]["temp"];
+            Console.WriteLine($"The tempature in {city} is {temp} Fahrenheit");
+
+        }
     }
 }
