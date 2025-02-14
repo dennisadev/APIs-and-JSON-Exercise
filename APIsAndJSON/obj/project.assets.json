@@ -62,11 +62,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DennisArmstrong\\OneDrive - Gordon Research Conferences\\Desktop\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\APIsAndJSON.csproj",
+      "projectUniqueName": "C:\\Users\\DennisArmstrong\\OneDrive - Gordon Research Conferences\\Desktop\\repos\\APIs-and-JSON-Exercise-Resubmit\\APIsAndJSON\\APIsAndJSON.csproj",
       "projectName": "APIsAndJSON",
-      "projectPath": "C:\\Users\\DennisArmstrong\\OneDrive - Gordon Research Conferences\\Desktop\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\APIsAndJSON.csproj",
+      "projectPath": "C:\\Users\\DennisArmstrong\\OneDrive - Gordon Research Conferences\\Desktop\\repos\\APIs-and-JSON-Exercise-Resubmit\\APIsAndJSON\\APIsAndJSON.csproj",
       "packagesPath": "C:\\Users\\DennisArmstrong\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DennisArmstrong\\OneDrive - Gordon Research Conferences\\Desktop\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\obj\\",
+      "outputPath": "C:\\Users\\DennisArmstrong\\OneDrive - Gordon Research Conferences\\Desktop\\repos\\APIs-and-JSON-Exercise-Resubmit\\APIsAndJSON\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

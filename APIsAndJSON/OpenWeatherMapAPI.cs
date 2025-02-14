@@ -16,7 +16,7 @@ namespace APIsAndJSON
             var key = "8c4b5b8347be9540090e07b9475857fd";
             var city = "Providence";
 
-            var weatherURL = "https://api.openweathermap.org/data/2.5/forcast?q={city}&units=imperial&appid={API key}";
+            var weatherURL = $"https://api.openweathermap.org/data/2.5/forecast?q={city}&units=imperial&appid={key}";
             var weatherResponse = client.GetStringAsync(weatherURL).Result;
 
             JObject response = JObject.Parse(weatherResponse);

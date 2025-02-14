@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DennisArmstrong\\OneDrive - Gordon Research Conferences\\Desktop\\repos\\APIs-and-JSON-Exercise\\",
+  "WorkspaceRootPath": "C:\\Users\\DennisArmstrong\\OneDrive - Gordon Research Conferences\\Desktop\\repos\\APIs-and-JSON-Exercise-Resubmit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|c:\\users\\dennisarmstrong\\onedrive - gordon research conferences\\desktop\\repos\\apis-and-json-exercise\\apisandjson\\openweathermapapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|c:\\users\\dennisarmstrong\\onedrive - gordon research conferences\\desktop\\repos\\apis-and-json-exercise-resubmit\\apisandjson\\openweathermapapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|solutionrelative:apisandjson\\openweathermapapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|c:\\users\\dennisarmstrong\\onedrive - gordon research conferences\\desktop\\repos\\apis-and-json-exercise\\apisandjson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|c:\\users\\dennisarmstrong\\onedrive - gordon research conferences\\desktop\\repos\\apis-and-json-exercise-resubmit\\apisandjson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|solutionrelative:apisandjson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|c:\\users\\dennisarmstrong\\onedrive - gordon research conferences\\desktop\\repos\\apis-and-json-exercise\\apisandjson\\ronvskanyeapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|c:\\users\\dennisarmstrong\\onedrive - gordon research conferences\\desktop\\repos\\apis-and-json-exercise-resubmit\\apisandjson\\ronvskanyeapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|solutionrelative:apisandjson\\ronvskanyeapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "OpenWeatherMapAPI.cs",
-              "DocumentMoniker": "C:\\Users\\DennisArmstrong\\OneDrive - Gordon Research Conferences\\Desktop\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\OpenWeatherMapAPI.cs",
+              "DocumentMoniker": "C:\\Users\\DennisArmstrong\\OneDrive - Gordon Research Conferences\\Desktop\\repos\\APIs-and-JSON-Exercise-Resubmit\\APIsAndJSON\\OpenWeatherMapAPI.cs",
               "RelativeDocumentMoniker": "APIsAndJSON\\OpenWeatherMapAPI.cs",
-              "ToolTip": "C:\\Users\\DennisArmstrong\\OneDrive - Gordon Research Conferences\\Desktop\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\OpenWeatherMapAPI.cs*",
-              "RelativeToolTip": "APIsAndJSON\\OpenWeatherMapAPI.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\DennisArmstrong\\OneDrive - Gordon Research Conferences\\Desktop\\repos\\APIs-and-JSON-Exercise-Resubmit\\APIsAndJSON\\OpenWeatherMapAPI.cs",
+              "RelativeToolTip": "APIsAndJSON\\OpenWeatherMapAPI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T15:42:46.776Z",
               "EditorCaption": ""
@@ -49,27 +49,25 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "RonVSKanyeAPI.cs",
-              "DocumentMoniker": "C:\\Users\\DennisArmstrong\\OneDrive - Gordon Research Conferences\\Desktop\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\RonVSKanyeAPI.cs",
+              "DocumentMoniker": "C:\\Users\\DennisArmstrong\\OneDrive - Gordon Research Conferences\\Desktop\\repos\\APIs-and-JSON-Exercise-Resubmit\\APIsAndJSON\\RonVSKanyeAPI.cs",
               "RelativeDocumentMoniker": "APIsAndJSON\\RonVSKanyeAPI.cs",
-              "ToolTip": "C:\\Users\\DennisArmstrong\\OneDrive - Gordon Research Conferences\\Desktop\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\RonVSKanyeAPI.cs",
+              "ToolTip": "C:\\Users\\DennisArmstrong\\OneDrive - Gordon Research Conferences\\Desktop\\repos\\APIs-and-JSON-Exercise-Resubmit\\APIsAndJSON\\RonVSKanyeAPI.cs",
               "RelativeToolTip": "APIsAndJSON\\RonVSKanyeAPI.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T15:16:59.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T15:16:59.343Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DennisArmstrong\\OneDrive - Gordon Research Conferences\\Desktop\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\DennisArmstrong\\OneDrive - Gordon Research Conferences\\Desktop\\repos\\APIs-and-JSON-Exercise-Resubmit\\APIsAndJSON\\Program.cs",
               "RelativeDocumentMoniker": "APIsAndJSON\\Program.cs",
-              "ToolTip": "C:\\Users\\DennisArmstrong\\OneDrive - Gordon Research Conferences\\Desktop\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\Program.cs",
+              "ToolTip": "C:\\Users\\DennisArmstrong\\OneDrive - Gordon Research Conferences\\Desktop\\repos\\APIs-and-JSON-Exercise-Resubmit\\APIsAndJSON\\Program.cs",
               "RelativeToolTip": "APIsAndJSON\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T15:10:16.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T15:10:16.316Z"
             }
           ]
         },

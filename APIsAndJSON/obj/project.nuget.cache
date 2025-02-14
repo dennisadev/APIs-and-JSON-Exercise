@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RyL8Bydt6PQ=",
+  "dgSpecHash": "a8U3nvqwSOY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DennisArmstrong\\OneDrive - Gordon Research Conferences\\Desktop\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\APIsAndJSON.csproj",
+  "projectFilePath": "C:\\Users\\DennisArmstrong\\OneDrive - Gordon Research Conferences\\Desktop\\repos\\APIs-and-JSON-Exercise-Resubmit\\APIsAndJSON\\APIsAndJSON.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DennisArmstrong\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
